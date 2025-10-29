@@ -28,30 +28,56 @@ Cuando escuchas "Hice una **contribución** a un proyecto o comunidad de código
 Tenemos algunos modelos de participación
 
 
-## Pathway To Inclusion (Camino hacia la Inclusión)
+## Comunidad de Practica
 
-### Seis pasos desde "nunca escuché de esto" hasta "esto es lo mío"
+> Grupo de personas que **comparten una
+pasión** por algo que saben **como hacer**, y que **interactúan regularmente** con el objetivo de **aprender como hacerlo mejor** – *Etienne Wenger*
+
+# ¿Cómo alguien llega a formar parte de una comunidad?
+
+## Camino hacia la Inclusión
+
+#### Seis pasos desde "nunca escuché de esto" hasta "esto es lo mío"
 
 ::: {.incremental}
 
-* **Conciencia**: He oído hablar de esto. 
-* **Comprensión**: Entiendo qué es esto y cómo sería para mí estar involucrado/a.
-* **Identificación**: Puedo imaginarme haciendo esto. 
-* **Acceso**: Puedo hacer esto física, logística y financieramente. 
-* **Pertenencia**: Siento que encajo aquí.
-* **Apropiación**: Me importa lo suficiente como para asumir la responsabilidad de esto.
+* **Conciencia**: Escuché hablar de esto. 
+* **Comprensión**: Entiendo qué es y cómo sería involucrarme.
+* **Identificación**: me imagino haciendo esto. 
+* **Acceso**: Puedo hacer esto (física, logística, financiera, ...) 
+* **Pertenencia**: Siento que encajo.
+* **Apropiación**: Me importa tanto como para asumir la responsabilidad.
 
 :::
 
 ::: footer
-[Pathway To Inclusion por Alex Bayley](https://www.harihareswara.net/posts/2022/the-pathway-to-inclusion-insight-from-alex-bayley/) 
+[Pathway To Inclusion por Alex Bayley](https://www.harihareswara.net/posts/2022/the-pathway-to-inclusion-insight-from-alex-bayley/) y 
+[We R Together. How to learn, use and improve a programming language as a community](https://yabellini.netlify.app/talk/2025_user2025/)
 :::
 
-## Pathway To Inclusion {.winter}
+
+## Camino hacia la Inclusión
+
+#### Seis pasos desde "nunca escuché de esto" hasta "esto es lo mío"
 
 ::: {.incremental}
 
-* ¿En qué etapa te encuentras con rOpenSci?
+* **Conciencia**: redes sociales, conferencias, meetups. 
+* **Comprensión**: README, documentación, sitio web
+* **Identificación**: [casos de uso](https://ropensci.org/es/usecases/), [entrevistas](https://ropensci.org/es/blog/2023/11/06/r-universe-stars-finale-es/), experiencias 
+* **Acceso**: codigo de conducta, zonas horarias 
+* **Pertenencia**: idiomas
+* **Apropiación**: onboarding, [issues etiquetados](https://ropensci.org/es/help-wanted/), guías de contribución
+
+:::
+
+## Camino hacia la Inclusión {.winter}
+
+::: {.incremental}
+
+* ¿Cuáles son tus comunidades de práctica relacionadas con R?
+
+* ¿Qué actividad o herramienta te ayudó a integrarte en tu comunidad?
 
 * ¿Puedes dar ejemplos de otras comunidades o proyectos de los que formas parte y en qué etapa te encuentras?
 
@@ -60,27 +86,61 @@ Tenemos algunos modelos de participación
 :::
 
 ::: footer
-[Pathway To Inclusion por Alex Bayley](https://www.harihareswara.net/posts/2022/the-pathway-to-inclusion-insight-from-alex-bayley/) 
+[Pathway To Inclusion por Alex Bayley](https://www.harihareswara.net/posts/2022/the-pathway-to-inclusion-insight-from-alex-bayley/) y 
+[We R Together. How to learn, use and improve a programming language as a community](https://yabellini.netlify.app/talk/2025_user2025/)
 :::
+
+# ¿Cómo alguien participa en una comunidad?
 
 ## Modelo de Participación Comunitaria CSCCE
 
-::: {.incremental}
-
-* **Transmitir/Consumir**: el CM transmite información para que los miembros la consuman independientemente unos de otros.
-* **Contribuir**: invitado/facilitado por el CM. Permite a los miembros descubrir las habilidades e intereses de otros. Hace el conocimiento más visible.
-* **Colaborar**: los miembros colaboran entre sí. 
-* **Co-crear**: los miembros trabajan juntos dentro de la comunidad para co-crear algo que no podrían hacer antes. 
-
-:::
+![](cscce.png)
 
 ::: footer
 [Modelo de Participación Comunitaria CSCCE](https://www.cscce.org/resources/cpm/) 
 :::
 
+## Ejemplo {.smaller}
+
+:::: {.columns}
+
+::: {.column width="60%"}
+::: {.incremental}
+**Joel** tenía previsto visitar Oslo, Noruega, para dar un taller. 
+
+Se puso en contacto con **Mo**, otra *persona activa de rOpenSci*, para proponerle tomar un café, 
+
+y Mo le preguntó si estaría dispuesto a *dar otro taller*. 
+
+Mo había *visto* a Joel en una *"conversaciones con la comunidad" de rOpenSci sobre {targets}* y quería *aprovechar su experiencia* para empezar a profundizar en el tema. 
+
+Joel se dio cuenta de que esa era *la motivación* que necesitaba para *actualizar los materiales del taller*, así que aceptó encantado.
+
+:::
+:::
+
+::: {.column width="40%"}
+![](Mo-Joel.png)
+:::
+
+::::
+
+::: footer
+[Teaching Targets With Penguins](https://ropensci.org/blog/2023/07/20/teaching-targets-with-penguins/)
+:::
+
+## Ejemplo
+
+- *Community Call*: Joel estaba **contribuyendo** y Mo estaba en **consumo**
+- *Blog Post*: Joel y Mo estaban **colaborando** 
+- *Workshop*: Joel y Mo estaban **co-creando**
+
+Colaboración con otras organizaciones y comunidades.
 
 ## Modelo de Participación Comunitaria CSCCE {.winter}
 
+
+* ¿Cuál es tu forma más habitual de participar en tu comunidad?
 
 * ¿Dónde ubicarías el Programa de Campeones?
 
@@ -111,13 +171,13 @@ Ejemplos de actividades de campeones
 
 ::: {.incremental}
 
-* [Guía de Contribución de la Comunidad rOpenSci](https://contributing.ropensci.org): una guía para ayudar a las personas a encontrar formas de contribuir a rOpenSci
+* [Guía de Contribución de la Comunidad rOpenSci](https://contributing.ropensci.org): guía para ayudar a las personas a encontrar formas de participar en rOpenSci
 
-* [Guía del Blog de rOpenSci](https://blogguide.ropensci.org): una guía para ayudar a las personas a escribir y editar publicaciones de blog para el Blog de rOpenSci.
+* [Guía del Blog de rOpenSci](https://blogguide.ropensci.org): una guía para ayudar a las personas a escribir y editar para el Blog de rOpenSci.
 
-* [Paquetes rOpenSci: Desarrollo, Mantenimiento y Revisión por Pares](https://devguide.ropensci.org): guía para autores de paquetes, mantenedores, revisores y editores en el sistema de revisión por pares de software de rOpenSci
+* [Paquetes rOpenSci: Desarrollo, Mantenimiento y Revisión por Pares](https://devguide.ropensci.org): guía para personas que desarrollan y revisan en el sistema de revisión por pares de software de rOpenSci
 
-* [Revisión por Pares de Software Estadístico de rOpenSci](https://stats-devguide.ropensci.org): documentación del proyecto de rOpenSci sobre la expansión de la revisión por pares de software para incluir software estadístico.
+* [Guía de localización y traducción de rOpenSci](https://translationguide.ropensci.org/es/index.es.html): Cómo y porqué traducimos y localizamos nuestros recursos.
 
 :::
 
@@ -129,11 +189,11 @@ Ejemplos de actividades de campeones
 
 * ¿Cuál te gustaría probar?
 
+* ¿Cuál te parece más accesible o útil para tus grupos de trabajo u otras comunidades?
+
 * Puedes usar muchas de estas opciones como tu actividad de difusión para el Programa de Campeones.
 
-* Nos gustaría aprender cómo podemos mejorar estas actividades.
-
-* Difunde información sobre estas opciones a personas en tus comunidades.
+* Nos gustaría aprender cómo podemos mejorar estas actividades. Difunde información sobre estas opciones a personas en tus comunidades.
 
 ::: 
 
@@ -162,7 +222,7 @@ Ejemplos de actividades de campeones
 
 * Si te gusta dar charlas, puedes presentar en un Grupo de Usuarios de R o [Capítulo de R-Ladies](https://www.meetup.com/pro/rladies/).
 
-* Presentar tu paquete en una **conferencia específica del dominio** o en conferencias específicas de R.
+* Presentar tu paquete en una **conferencia específica del dominio** o en conferencias específicas de R (LatinR ;-)).
 
 * Si tu paquete encaja en una [Vista de Tareas de CRAN](https://cran.r-project.org/web/views/) puedes proponer su adición.
 
@@ -190,7 +250,7 @@ En grupos usa tu paquete o el paquete que creamos en las otras capacitaciones y
 
 * agrega una Guía de Contribución.
 
-Usethis ayuda: https://usethis.r-lib.org/reference/use_code_of_conduct.html
+Ayuda de {usethis}: https://usethis.r-lib.org/reference/use_code_of_conduct.html
 
 
 ## Guía de contribución
@@ -229,9 +289,9 @@ Las preferencias personales en una guía de contribución incluyen:
 
 ::: {.incremental}
 
-* Sección de la Guía de Desarrollo sobre [Trabajar con colaboradores](https://devguide.ropensci.org/maintenance_collaboration.html#workingcollaborators)
+* Sección de la Guía de Desarrollo sobre [Trabajar con colaboradores](https://devguide.ropensci.org/es/maintenance_collaboration.es.html#workingcollaborators)
 
-* Publicación del blog [Ideas de Marketing para tu Paquete](https://ropensci.org/blog/2024/03/07/package-marketing/)
+* Publicación del blog [Ideas de Marketing para tu Paquete](https://ropensci.org/es/blog/2024/03/07/package-marketing/)
 
 * Llamada comunitaria de rOpenSci [Configura tu Paquete para Fomentar una Comunidad](https://ropensci.org/commcalls/apr2021-pkg-community/).
 
@@ -239,4 +299,4 @@ Las preferencias personales en una guía de contribución incluyen:
 
 :::
 
-# ¡Tiempo para Preguntas! :-)
+# ¡Tiempo para Comentarios y Preguntas! :-)
