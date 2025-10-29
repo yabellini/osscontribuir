@@ -28,3 +28,10 @@ Este es un proyecto de Quarto. Para generar las diapositivas:
    ```
 
 Las diapositivas se generarán en formato HTML usando Reveal.js.
+
+## Ver las diapositivas en línea
+
+Las diapositivas están publicadas en GitHub Pages y se pueden ver en:
+https://yabellini.github.io/osscontribuir/
+
+El sitio se actualiza automáticamente cuando se hacen cambios en la rama `main` del repositorio.
