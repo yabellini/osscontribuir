@@ -1,0 +1,242 @@
+---
+title: "Cómo contribuir a proyectos y comunidades abiertas"
+author: "Yani Bellini Saibene"
+format: 
+  revealjs:
+    theme: [default, stilos.scss]
+    logo: ropensci.svg
+    slide-number: c/t
+---
+
+## Agenda para hoy
+
+* ¿Qué es una contribución para un proyecto de código abierto?
+* ...¿y para una comunidad?
+* Ejemplos con rOpenSci
+* ¿Cómo puedo ayudar a las personas a contribuir a mi paquete?
+
+## Contribuciones {.winter}
+
+
+Cuando escuchas "Hice una **contribución** a un proyecto o comunidad de código abierto"...
+
+...¿qué te viene a la mente?
+
+
+# Desde la perspectiva de una comunidad
+
+Tenemos algunos modelos de participación
+
+
+## Pathway To Inclusion (Camino hacia la Inclusión)
+
+### Seis pasos desde "nunca escuché de esto" hasta "esto es lo mío"
+
+::: {.incremental}
+
+* **Conciencia**: He oído hablar de esto. 
+* **Comprensión**: Entiendo qué es esto y cómo sería para mí estar involucrado/a.
+* **Identificación**: Puedo imaginarme haciendo esto. 
+* **Acceso**: Puedo hacer esto física, logística y financieramente. 
+* **Pertenencia**: Siento que encajo aquí.
+* **Apropiación**: Me importa lo suficiente como para asumir la responsabilidad de esto.
+
+:::
+
+::: footer
+[Pathway To Inclusion por Alex Bayley](https://www.harihareswara.net/posts/2022/the-pathway-to-inclusion-insight-from-alex-bayley/) 
+:::
+
+## Pathway To Inclusion {.winter}
+
+::: {.incremental}
+
+* ¿En qué etapa te encuentras con rOpenSci?
+
+* ¿Puedes dar ejemplos de otras comunidades o proyectos de los que formas parte y en qué etapa te encuentras?
+
+* ¿Cuánto tiempo te tomó pasar de un estado a otro?
+
+:::
+
+::: footer
+[Pathway To Inclusion por Alex Bayley](https://www.harihareswara.net/posts/2022/the-pathway-to-inclusion-insight-from-alex-bayley/) 
+:::
+
+## Modelo de Participación Comunitaria CSCCE
+
+::: {.incremental}
+
+* **Transmitir/Consumir**: el CM transmite información para que los miembros la consuman independientemente unos de otros.
+* **Contribuir**: invitado/facilitado por el CM. Permite a los miembros descubrir las habilidades e intereses de otros. Hace el conocimiento más visible.
+* **Colaborar**: los miembros colaboran entre sí. 
+* **Co-crear**: los miembros trabajan juntos dentro de la comunidad para co-crear algo que no podrían hacer antes. 
+
+:::
+
+::: footer
+[Modelo de Participación Comunitaria CSCCE](https://www.cscce.org/resources/cpm/) 
+:::
+
+
+## Modelo de Participación Comunitaria CSCCE {.winter}
+
+
+* ¿Dónde ubicarías el Programa de Campeones?
+
+
+## Modelo de Participación Comunitaria CSCCE
+
+Los programas de campeones suelen estar en todo el espectro
+
+Ejemplos de actividades de campeon-ización
+
+::: {.incremental}
+
+* **Transmitir**: publican en redes sociales para difundir más ampliamente
+
+* **Contribuir**: invitan a otros a asistir a un evento;
+
+* **Colaborar**: organizan una llamada comunitaria;
+
+* **Co-crear**: realizan capacitaciones u otras actividades para otros en la comunidad
+
+:::
+
+::: footer
+[Modelo de Participación Comunitaria CSCCE](https://www.cscce.org/resources/cpm/) 
+:::
+
+## Ejemplos de rOpenSci
+
+::: {.incremental}
+
+* [Guía de Contribución de la Comunidad rOpenSci](https://contributing.ropensci.org): una guía para ayudar a las personas a encontrar formas de contribuir a rOpenSci
+
+* [Guía del Blog de rOpenSci](https://blogguide.ropensci.org): una guía para ayudar a las personas a escribir y editar publicaciones de blog para el Blog de rOpenSci.
+
+* [Paquetes rOpenSci: Desarrollo, Mantenimiento y Revisión por Pares](https://devguide.ropensci.org): guía para autores de paquetes, mantenedores, revisores y editores en el sistema de revisión por pares de software de rOpenSci
+
+* [Revisión por Pares de Software Estadístico de rOpenSci](https://stats-devguide.ropensci.org): documentación del proyecto de rOpenSci sobre la expansión de la revisión por pares de software para incluir software estadístico.
+
+:::
+
+## Ejemplos de rOpenSci {.winter}
+
+::: {.incremental}
+
+* ¿Has participado en alguna de estas opciones?
+
+* ¿Cuál te gustaría probar?
+
+* Puedes usar muchas de estas opciones como tu actividad de difusión para el Programa de Campeones.
+
+* Nos gustaría aprender cómo podemos mejorar estas actividades.
+
+* Difunde información sobre estas opciones a personas en tus comunidades.
+
+::: 
+
+
+# ¿Cómo son útiles estos conceptos para mi paquete?
+
+## Transmitir
+
+::: {.incremental}
+
+* Crea un [README](https://blog.r-hub.io/2019/12/03/readmes/) completo: explica claramente qué hace tu paquete, cómo instalarlo y cómo los usuarios pueden empezar a usarlo. Incluye ejemplos o casos de uso y (enlaces a) cualquier información relevante que pueda ayudar a los usuarios a entender cómo tu paquete puede ayudarles.
+
+* [Fija el repositorio de tu paquete a tu perfil](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/pinning-items-to-your-profile) para que otras personas puedan encontrarlo rápidamente.
+
+* [Crea un universo en R-universe](https://ropensci.org/blog/2021/06/22/setup-runiverse/), simplifica la instalación de tu paquete y proporciona estadísticas e información útiles sobre él.
+
+:::
+
+## Transmitir
+
+::: {.incremental}
+
+* Recomendamos crear un **sitio web de documentación** para tu paquete usando pkgdown. 
+
+* Aprovecha plataformas como Mastodon, LinkedIn y foros específicos de R como [R-bloggers](https://www.r-bloggers.com/) y [R Weekly](https://rweekly.org/) para anunciar el lanzamiento de tu paquete.
+
+* Si te gusta dar charlas, puedes presentar en un Grupo de Usuarios de R o [Capítulo de R-Ladies](https://www.meetup.com/pro/rladies/).
+
+* Presentar tu paquete en una **conferencia específica del dominio** o en conferencias específicas de R.
+
+* Si tu paquete encaja en una [Vista de Tareas de CRAN](https://cran.r-project.org/web/views/) puedes proponer su adición.
+
+:::
+
+## Contribuir / Colaborar
+
+Haz que tu repositorio sea amigable para la contribución y colaboración
+
+::: {.incremental}
+
+* Código de conducta (`CODE_OF_CONDUCT.md`): puedes insertar uno con `use_code_of_conduct()` del paquete `usethis`. La plantilla proviene de https://www.contributor-covenant.org.
+
+* Licencia OSI (`LICENSE.md`).
+
+* Guía de contribución (`CONTRIBUTING.md`): una forma fácil de insertar una plantilla para una guía de contribución es `use_tidy_contributing()` del paquete `usethis`.
+
+:::
+
+## Contribuir / Colaborar {.winter}
+
+En grupos usa tu paquete o el paquete que creamos en las otras capacitaciones y 
+
+* agrega un Código de Conducta.
+
+* agrega una Guía de Contribución.
+
+Usethis ayuda: https://usethis.r-lib.org/reference/use_code_of_conduct.html
+
+
+## Guía de contribución
+
+Las preferencias personales en una guía de contribución incluyen:
+
+::: {.incremental}
+
+* ¿Preferencias de estilo? 
+
+* ¿Infraestructura como roxygen2?
+
+* ¿Preferencias de flujo de trabajo? ¿Issue antes de un PR?
+
+* Describe cómo reconoces las contribuciones. 
+
+* ¿Una declaración de alcance, como en el paquete [skimr](https://github.com/ropensci/skimr/blob/main/.github/CONTRIBUTING.md#understanding-the-scope-of-skimr)?
+
+* Recomendamos que las guías de contribución incluyan una [declaración de ciclo de vida que aclare visiones y expectativas](https://github.com/ecohealthalliance/fasterize/blob/main/CONTRIBUTING.md#roadmap) para el desarrollo futuro de tu paquete.
+
+:::
+
+## Gestión de issues
+
+::: {.incremental}
+
+*  [Plantilla(s) de issue](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository#creating-issue-templates=): ayudan a los usuarios a completar mejores reportes de errores o solicitudes de funcionalidades.
+
+* [Etiquetado de issues](https://help.github.com/articles/helping-new-contributors-find-your-project-with-labels/): usa etiquetas como "help wanted" y "good first issue" para ayudar a colaboradores potenciales, incluyendo principiantes, a encontrar tu repositorio. 
+
+* [Fijar issues](https://docs.github.com/en/articles/pinning-an-issue-to-your-repository): Puedes fijar hasta 3 issues por repositorio que luego aparecerán en la parte superior de tu rastreador de issues como tarjetas de issue atractivas. Puede ayudar a publicitar cuáles son tus prioridades.
+
+:::
+
+## Recursos adicionales: Colaborar / Co-crear.
+
+::: {.incremental}
+
+* Sección de la Guía de Desarrollo sobre [Trabajar con colaboradores](https://devguide.ropensci.org/maintenance_collaboration.html#workingcollaborators)
+
+* Publicación del blog [Ideas de Marketing para tu Paquete](https://ropensci.org/blog/2024/03/07/package-marketing/)
+
+* Llamada comunitaria de rOpenSci [Configura tu Paquete para Fomentar una Comunidad](https://ropensci.org/commcalls/apr2021-pkg-community/).
+
+* Para reutilizar respuestas amables y habituales, considera las [respuestas guardadas](https://docs.github.com/en/github/writing-on-github/working-with-saved-replies/using-saved-replies) de GitHub.
+
+:::
+
+# ¡Tiempo para Preguntas! :-)
