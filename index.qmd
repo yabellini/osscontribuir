@@ -89,7 +89,7 @@ Tenemos algunos modelos de participación
 
 Los programas de campeones suelen estar en todo el espectro
 
-Ejemplos de actividades de campeon-ización
+Ejemplos de actividades de campeones
 
 ::: {.incremental}
 
@@ -217,7 +217,7 @@ Las preferencias personales en una guía de contribución incluyen:
 
 ::: {.incremental}
 
-*  [Plantilla(s) de issue](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository#creating-issue-templates=): ayudan a los usuarios a completar mejores reportes de errores o solicitudes de funcionalidades.
+*  [Plantilla(s) de issue](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository#creating-issue-templates): ayudan a los usuarios a completar mejores reportes de errores o solicitudes de funcionalidades.
 
 * [Etiquetado de issues](https://help.github.com/articles/helping-new-contributors-find-your-project-with-labels/): usa etiquetas como "help wanted" y "good first issue" para ayudar a colaboradores potenciales, incluyendo principiantes, a encontrar tu repositorio. 
 
